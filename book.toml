@@ -1,6 +1,10 @@
 [book]
-authors = ["Bojan Shtrkovski"]
+authors = ["bojanstrkovski-21"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Boki-MD-Book-2025"
+
+[output.html]
+additional-css = ["src/bokimd.css"]
+

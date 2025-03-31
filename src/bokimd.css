@@ -1,0 +1,52 @@
+:root {
+--bg: #2d353b;
+--fg: #d3c6aa;
+
+--sidebar-bg: #232a2e;
+--sidebar-fg: #d3c6aa;
+--sidebar-non-existant: #859289;
+--sidebar-active: #dbbc7f;
+--sidebar-spacer: #232a2e;
+
+--scrollbar: var(--sidebar-fg);
+
+--icons: #7a8478;
+--icons-hover: #9da9a0;
+
+--links: #7fbbb3;
+
+--inline-code-color: #dbbc7f;
+
+--theme-popup-bg: #2d353b;
+--theme-popup-border: #4f585e;
+--theme-hover: #9da9a0;
+
+--quote-bg: #4f585e;
+--quote-border: #475258;
+
+--warning-border: #e69875;
+
+--table-border-color: #9da9a0;
+--table-header-bg: #3a515d;
+--table-alternate-bg: #3a515d;
+
+--searchbar-border-color: #3a515d;
+--searchbar-bg: #4f585e;
+--searchbar-fg: #d3c6aa;
+--searchbar-shadow-color: #e69875;
+--searchresults-header-fg: #d3c6aa;
+--searchresults-border-color: #9da9a0;
+--searchresults-li-bg: #2d353b;
+--search-mark-bg: #e69875;
+}
+
+.menu-title {
+  font-weight: bold;
+  color: #d3c6aa;
+}
+
+#searchbar {
+  font-weight: bold;
+  font-size: 18px;
+}
+
