@@ -1,7 +1,7 @@
 # Neovim
 
-- [01. Prerequisites for installation](./Neovim/01.Prerequisite_for_installation.md)
-- [02. Install Neovim](./Neovim/02.Install_neovim.md)
+- [01. Prerequisites for installation](Neovim/01.Prerequisite_for_installation.md)
+- [02. Install Neovim](Neovim/02.Install_neovim.md)
 
 
 ## About
